@@ -4,7 +4,7 @@ import About from "./About";
 
 export default function App() {
   return (
-    <Router>
+    <Router basename="/react-gh-pages-test">
       <div>
         <nav>
           <ul>
