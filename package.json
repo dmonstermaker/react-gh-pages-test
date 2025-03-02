@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "http://dmonstermaker.github.io/react-gh-pages-test",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
